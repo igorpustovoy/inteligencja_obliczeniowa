@@ -1,0 +1,44 @@
+2022-04-06 10:59:12,915 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2022-04-06 10:59:12,965 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -66.8437172354654, best pos: [ 8.45601913 15.65059264]
+2022-04-06 11:07:51,045 - pyswarms.single.general_optimizer - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2022-04-06 11:07:51,329 - pyswarms.single.general_optimizer - INFO - Optimization finished | best cost: -66.84371719268712, best pos: [ 8.45735503 15.64992327]
+2022-04-06 11:11:41,895 - pyswarms.single.general_optimizer - INFO - Optimize for 50 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2022-04-06 11:11:42,032 - pyswarms.single.general_optimizer - INFO - Optimization finished | best cost: 4.123479142364742e-05, best pos: [0.00326192 0.00553124]
+2022-04-06 11:11:51,325 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2022-04-06 11:11:51,325 - matplotlib.animation - INFO - MovieWriter._run: running command: 'C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe' -size 1000x800 -depth 8 -delay 10.0 -loop 0 rgba:- plot0.gif
+2022-04-06 11:13:51,500 - pyswarms.single.general_optimizer - INFO - Optimize for 50 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2022-04-06 11:13:51,656 - pyswarms.single.general_optimizer - INFO - Optimization finished | best cost: 6.709274072432828e-05, best pos: [-0.00767112  0.00287171]
+2022-04-06 11:13:56,606 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2022-04-06 11:13:56,606 - matplotlib.animation - INFO - MovieWriter._run: running command: 'C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe' -size 1000x800 -depth 8 -delay 10.0 -loop 0 rgba:- pyramid_topology.gif
+2022-04-06 11:14:28,952 - pyswarms.single.general_optimizer - INFO - Optimize for 50 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2022-04-06 11:14:29,122 - pyswarms.single.general_optimizer - INFO - Optimization finished | best cost: 1.0562070769664158e-05, best pos: [0.00323347 0.00032676]
+2022-04-06 11:14:33,961 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2022-04-06 11:14:33,961 - matplotlib.animation - INFO - MovieWriter._run: running command: 'C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe' -size 1000x800 -depth 8 -delay 10.0 -loop 0 rgba:- pyramid_topology.gif
+2022-04-06 11:16:39,855 - pyswarms.single.general_optimizer - INFO - Optimize for 50 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2022-04-06 11:16:39,881 - pyswarms.single.general_optimizer - INFO - Optimization finished | best cost: 0.00012343329080160493, best pos: [-0.00376428 -0.01045292]
+2022-04-06 11:16:44,327 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2022-04-06 11:16:44,327 - matplotlib.animation - INFO - MovieWriter._run: running command: 'C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe' -size 1000x800 -depth 8 -delay 10.0 -loop 0 rgba:- pyramid_topology.gif
+2022-04-06 11:17:18,017 - pyswarms.single.general_optimizer - INFO - Optimize for 50 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2022-04-06 11:17:18,050 - pyswarms.single.general_optimizer - INFO - Optimization finished | best cost: 4.369860098461524e-05, best pos: [0.00583743 0.0031021 ]
+2022-04-06 11:17:22,537 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2022-04-06 11:17:22,537 - matplotlib.animation - INFO - MovieWriter._run: running command: 'C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe' -size 1000x800 -depth 8 -delay 10.0 -loop 0 rgba:- star_topology.gif
+2022-04-06 11:19:37,813 - pyswarms.single.global_best - INFO - Optimize for 50 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2022-04-06 11:19:37,838 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 6.507188605694347e-07, best pos: [0.00031708 0.00074174]
+2022-04-06 11:19:42,286 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2022-04-06 11:19:42,286 - matplotlib.animation - INFO - MovieWriter._run: running command: 'C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe' -size 1000x800 -depth 8 -delay 10.0 -loop 0 rgba:- default_topology.gif
+2022-04-06 11:20:22,210 - pyswarms.single.general_optimizer - INFO - Optimize for 50 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2022-04-06 11:20:22,352 - pyswarms.single.general_optimizer - INFO - Optimization finished | best cost: 1.2791902951644596e-07, best pos: [0.00023806 0.00026692]
+2022-04-06 11:20:26,750 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2022-04-06 11:20:26,750 - matplotlib.animation - INFO - MovieWriter._run: running command: 'C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe' -size 1000x800 -depth 8 -delay 10.0 -loop 0 rgba:- pyramid_topology.gif
+2022-04-06 11:34:19,370 - pyswarms.single.global_best - INFO - Optimize for 50 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2022-04-06 11:34:19,395 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 2.8734557652983555e-06, best pos: [0.0014816 0.0008236]
+2022-04-06 11:34:23,786 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2022-04-06 11:34:23,786 - matplotlib.animation - INFO - MovieWriter._run: running command: 'C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe' -size 1000x800 -depth 8 -delay 10.0 -loop 0 rgba:- default_topology.gif
+2022-04-06 11:35:05,366 - pyswarms.single.global_best - INFO - Optimize for 50 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2022-04-06 11:35:05,391 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 3.878221582787474e-06, best pos: [0.00156422 0.00119643]
+2022-04-06 11:35:10,568 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2022-04-06 11:35:10,576 - matplotlib.animation - INFO - MovieWriter._run: running command: 'C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe' -size 1000x800 -depth 8 -delay 10.0 -loop 0 rgba:- 3d.gif
+2022-04-06 11:37:20,140 - pyswarms.single.global_best - INFO - Optimize for 50 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2022-04-06 11:37:20,165 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 3.08558646933947e-05, best pos: [0.00268918 0.00486047]
+2022-04-06 11:37:24,820 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2022-04-06 11:37:24,820 - matplotlib.animation - INFO - MovieWriter._run: running command: 'C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe' -size 1000x800 -depth 8 -delay 10.0 -loop 0 rgba:- default_topology.gif

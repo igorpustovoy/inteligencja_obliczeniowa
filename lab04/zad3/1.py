@@ -11,7 +11,7 @@ optimizer = ps.single.GlobalBestPSO(n_particles=10, dimensions=2,
                                     options=options)
 
 # Perform optimization
-stats = optimizer.optimize(fx.beale, iters=100)
+stats = optimizer.optimize(fx.eggholder, iters=100)
 
 # Obtain cost history from optimizer instance
 cost_history = optimizer.cost_history
