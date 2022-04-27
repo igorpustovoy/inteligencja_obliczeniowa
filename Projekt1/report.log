@@ -1,0 +1,204 @@
+2022-04-26 12:15:03,110 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:15:03,174 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: -51.0, best pos: [1 1 0 1 1 0 1 1 1 1 1 1 1 1 1 1 0 0 1 0 1 0 0 1 0]
+2022-04-26 12:16:45,369 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:16:45,402 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: -25.0, best pos: [0 1 0 1 0 0 0 0 1 1 0 0 0 0 1 1 1 0 0 1 1 0 1 1 1]
+2022-04-26 12:16:56,725 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:16:56,757 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: -25.0, best pos: [1 0 1 0 1 1 0 0 1 1 1 1 0 1 1 0 0 1 1 0 1 1 0 1 0]
+2022-04-26 12:17:10,734 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:17:10,769 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: -41.0, best pos: [0 1 0 0 1 0 1 1 1 1 0 1 1 1 1 0 0 1 0 0 1 1 1 1 0]
+2022-04-26 12:18:15,517 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:18:15,549 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: -18.0, best pos: [1 0 1 1 1 1 0 1 1]
+2022-04-26 12:19:02,537 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:19:02,586 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: -15.0, best pos: [1 0 0 1 1 1 0 1 1]
+2022-04-26 12:23:31,690 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:23:31,730 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: -9.0, best pos: [1 1 1 1 0 1 1 1 1]
+2022-04-26 12:24:00,554 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:24:00,586 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: -9.0, best pos: [1 1 0 0 1 0 0 0 0]
+2022-04-26 12:24:07,414 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:24:07,447 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: -9.0, best pos: [1 1 0 0 0 0 1 1 1]
+2022-04-26 12:24:30,564 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:24:30,596 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: -9.0, best pos: [0 0 0 0 0 0 1 1 1]
+2022-04-26 12:24:52,429 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:24:52,478 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: -9.0, best pos: [1 0 1 1 0 1 1 1 1]
+2022-04-26 12:26:40,369 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:26:40,397 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: -9.0, best pos: [1 1 1 1 1 0 1 0 1]
+2022-04-26 12:27:24,079 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:27:24,093 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: -9.0, best pos: [0 1 0 1 1 0 1 0 1]
+2022-04-26 12:28:28,637 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:28:46,024 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:28:46,038 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: -9.0, best pos: [0 1 0 1 1 0 1 1 0]
+2022-04-26 12:29:52,118 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:29:52,132 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: -9.0, best pos: [0 1 0 0 0 0 0 1 0]
+2022-04-26 12:30:38,847 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:30:38,860 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: -9.0, best pos: [1 1 1 0 1 0 0 1 1]
+2022-04-26 12:31:26,074 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:31:26,107 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: -9.0, best pos: [0 1 0 1 0 1 1 1 0]
+2022-04-26 12:32:23,186 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:32:23,239 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: -9.0, best pos: [0 0 0 1 0 1 1 1 0]
+2022-04-26 12:32:54,385 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:32:54,439 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 1.0, best pos: [1 0 1 0 0 0 0 0 1]
+2022-04-26 12:33:11,556 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:33:11,606 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.0, best pos: [1 0 1 0 0 0 0 0 1]
+2022-04-26 12:33:36,220 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:33:36,265 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 8.0, best pos: [1 0 0 0 0 0 0 1 0 0 0 1 0 0 1 1 0 1 0 0 0 0 0 0 0]
+2022-04-26 12:33:51,712 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:33:51,728 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 18.0, best pos: [0 1 0 0 1 0 1 1 0 1 0 1 0 0 0 1 0 0 1 0 1 0 0 0 1]
+2022-04-26 12:33:58,951 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:33:58,969 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 11.0, best pos: [1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0]
+2022-04-26 12:34:04,590 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:34:04,610 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 8.0, best pos: [0 1 0 0 1 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 1 1 0 1 0]
+2022-04-26 12:34:28,301 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:34:28,316 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 18.0, best pos: [1 1 0 0 1 0 1 0 0 1 0 1 0 1 0 0 0 1 0 0 1 0 0 0 0]
+2022-04-26 12:34:45,280 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:34:45,297 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 9.0, best pos: [0 0 0 1 0 0 0 0 0 1 0 1 1 0 0 0 0 0 1 0 0 0 0 1 0]
+2022-04-26 12:34:54,431 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:34:54,447 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 14.0, best pos: [1 0 0 0 1 0 0 0 1 0 0 1 0 0 1 1 0 0 1 0 1 1 1 0 0]
+2022-04-26 12:36:26,203 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:36:26,220 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 12.0, best pos: [0 1 0 0 1 0 0 0 0 0 1 1 0 0 1 0 0 1 0 0 0 0 1 1 0]
+2022-04-26 12:37:13,654 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:37:13,706 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 10.0, best pos: [0 1 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 1 0 1 1 0 0 1]
+2022-04-26 12:37:19,448 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:37:19,506 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 8.0, best pos: [0 0 0 1 0 0 0 1 0 1 0 1 0 0 0 0 0 1 0 0 1 0 0 1 1]
+2022-04-26 12:37:33,848 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:37:33,898 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 4.0, best pos: [0 1 0 1 1 0 0 0 0 0 0 1 0 1 1 0 0 1 0 0 0 1 0 0 1]
+2022-04-26 12:39:41,986 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:39:42,504 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 2.0, best pos: [0 1 0 0 1 0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 1 0 0 0]
+2022-04-26 12:41:31,603 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:41:41,580 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.0, best pos: [0 1 0 1 0 0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 1 0 0 1]
+2022-04-26 12:43:05,674 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:43:15,464 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.0, best pos: [0 1 0 1 0 0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 1 0 0 1]
+2022-04-26 12:44:39,984 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:44:49,770 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 2.0, best pos: [0 1 0 1 0 0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 1 0 0 1]
+2022-04-26 12:45:09,183 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:45:24,881 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 10.0, best pos: [0 0 0 1 0 0 0 0 1 0 0 0 1 0 1 0 0 1 1 0 1 0 1 0 0 0 1 0 0 0 1 0 0 0 1 1 0
+ 0 0 0 1 0 0 1 0 0 0 0 1]
+2022-04-26 12:53:18,886 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:53:34,383 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 11.0, best pos: [1 0 0 0 0 1 0 0 1 0 0 0 0 0 1 0 0 0 1 0 0 0 1 1 0 0 1 0 1 0 0 1 0 0 1 0 0
+ 0 1 0 0 0 0 1 0 0 0 0 1]
+2022-04-27 07:15:27,592 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 07:15:42,828 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 12.0, best pos: [1 0 0 1 0 0 0 0 1 0 0 0 0 1 0 1 0 1 0 1 0 0 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0
+ 0 1 0 1 0 0 1 0 0 0 0 1]
+2022-04-27 07:15:45,313 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2022-04-27 07:15:45,313 - matplotlib.animation - INFO - MovieWriter._run: running command: 'C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe' -size 1000x800 -depth 8 -delay 10.0 -loop 0 rgba:- plot0.gif
+2022-04-27 07:19:19,801 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 07:19:26,779 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.0, best pos: [0 0 1 0 0 0 0 1 0]
+2022-04-27 07:19:28,891 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2022-04-27 07:19:28,891 - matplotlib.animation - INFO - MovieWriter._run: running command: 'C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe' -size 1000x800 -depth 8 -delay 10.0 -loop 0 rgba:- plot0.gif
+2022-04-27 07:20:11,567 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 07:20:17,659 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.0, best pos: [0 0 1 0 0 0 0 1 0]
+2022-04-27 07:20:19,740 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2022-04-27 07:20:19,741 - matplotlib.animation - INFO - MovieWriter._run: running command: 'C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe' -size 1000x800 -depth 8 -delay 10.0 -loop 0 rgba:- 3x3.gif
+2022-04-27 07:25:02,606 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 07:25:08,687 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.0, best pos: [0 0 1 0 0 0 0 1 0]
+2022-04-27 07:25:12,592 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2022-04-27 07:25:12,593 - matplotlib.animation - INFO - MovieWriter._run: running command: 'C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe' -size 1000x800 -depth 8 -delay 10.0 -loop 0 rgba:- 3x3.gif
+2022-04-27 07:29:31,600 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 07:29:37,920 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.0, best pos: [0 0 1 0 0 0 0 1 0]
+2022-04-27 07:29:40,073 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2022-04-27 07:29:40,074 - matplotlib.animation - INFO - MovieWriter._run: running command: 'C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe' -size 1000x800 -depth 8 -delay 10.0 -loop 0 rgba:- 3x3.gif
+2022-04-27 07:31:57,312 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 07:32:03,664 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.0, best pos: [0 0 1 0 0 0 0 1 0]
+2022-04-27 07:32:05,856 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2022-04-27 07:32:05,857 - matplotlib.animation - INFO - MovieWriter._run: running command: 'C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe' -size 1000x800 -depth 8 -delay 10.0 -loop 0 rgba:- 3x3.gif
+2022-04-27 07:36:10,766 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 07:36:16,893 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.0, best pos: [1 0 1 0 0 0 0 0 1]
+2022-04-27 07:41:06,055 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 07:41:12,047 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.0, best pos: [0 0 1 0 0 0 0 1 0]
+2022-04-27 07:41:24,319 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2022-04-27 07:41:24,320 - matplotlib.animation - INFO - MovieWriter._run: running command: 'C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe' -size 1000x800 -depth 8 -delay 10.0 -loop 0 rgba:- 3x3.gif
+2022-04-27 07:41:34,672 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 07:42:04,670 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 07:42:09,945 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.0, best pos: [0 0 1 0 0 0 0 1 0]
+2022-04-27 07:42:57,177 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2022-04-27 07:42:57,178 - matplotlib.animation - INFO - MovieWriter._run: running command: 'C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe' -size 1000x800 -depth 8 -delay 10.0 -loop 0 rgba:- 3x3.gif
+2022-04-27 07:43:23,747 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 07:43:24,251 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.0, best pos: [0 0 1 0 0 0 0 1 0]
+2022-04-27 07:43:37,904 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 07:43:38,410 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.0, best pos: [1 0 1 0 0 0 0 0 1]
+2022-04-27 07:46:14,840 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 07:46:20,777 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.0, best pos: [0 0 1 0 0 0 0 1 0]
+2022-04-27 07:46:24,834 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2022-04-27 07:46:24,835 - matplotlib.animation - INFO - MovieWriter._run: running command: 'C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe' -size 1000x800 -depth 8 -delay 10.0 -loop 0 rgba:- 3x3.gif
+2022-04-27 07:46:37,330 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 07:46:37,887 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.0, best pos: [1 0 1 0 0 0 0 0 1]
+2022-04-27 07:47:16,490 - pyswarms.discrete.binary - INFO - Optimize for 300 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 07:47:19,004 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 2.0, best pos: [0 1 0 1 0 0 0 0 0 0 0 1 0 0 1 1 0 1 0 0 0 0 0 0 1]
+2022-04-27 07:47:25,430 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2022-04-27 07:47:25,431 - matplotlib.animation - INFO - MovieWriter._run: running command: 'C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe' -size 1000x800 -depth 8 -delay 10.0 -loop 0 rgba:- 3x3.gif
+2022-04-27 07:47:50,717 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 07:47:51,521 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 5.0, best pos: [0 0 0 1 0 0 0 0 0 1 0 1 1 0 0 0 0 0 1 0 0 1 0 0 1]
+2022-04-27 07:47:58,568 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2022-04-27 07:47:58,569 - matplotlib.animation - INFO - MovieWriter._run: running command: 'C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe' -size 1000x800 -depth 8 -delay 10.0 -loop 0 rgba:- 3x3.gif
+2022-04-27 07:48:07,424 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 07:48:08,184 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 3.0, best pos: [1 0 0 1 0 0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 1 0 1 0]
+2022-04-27 07:48:14,212 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2022-04-27 07:48:14,212 - matplotlib.animation - INFO - MovieWriter._run: running command: 'C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe' -size 1000x800 -depth 8 -delay 10.0 -loop 0 rgba:- 3x3.gif
+2022-04-27 07:48:26,901 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 07:48:35,625 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 1.0, best pos: [0 1 0 1 0 0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 1 0 0 1]
+2022-04-27 07:50:49,987 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2022-04-27 07:50:49,988 - matplotlib.animation - INFO - MovieWriter._run: running command: 'C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe' -size 1000x800 -depth 8 -delay 10.0 -loop 0 rgba:- 3x3.gif
+2022-04-27 07:50:50,841 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2022-04-27 07:50:50,842 - matplotlib.animation - INFO - MovieWriter._run: running command: 'C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe' -size 1000x800 -depth 8 -delay 10.0 -loop 0 rgba:- 3x3.gif
+2022-04-27 07:51:35,626 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 07:51:50,032 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 12.0, best pos: [0 0 0 1 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1 0 1 0 0 0 1 0 0
+ 0 0 0 0 0 0 1 0 1 0 0 1]
+2022-04-27 07:51:56,203 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2022-04-27 07:51:56,203 - matplotlib.animation - INFO - MovieWriter._run: running command: 'C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe' -size 1000x800 -depth 8 -delay 10.0 -loop 0 rgba:- 3x3_2.gif
+2022-04-27 07:51:56,287 - matplotlib.animation - WARNING - MovieWriter stderr:
+magick.exe: unexpected end-of-file '-': No such file or directory @ error/rgb.c/ReadRGBImage/246.
+
+2022-04-27 07:51:57,585 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 07:52:12,406 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 11.0, best pos: [0 0 0 0 1 0 0 1 0 0 0 1 0 1 0 1 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 1 0 0 1 0 0
+ 0 0 0 0 0 0 1 0 1 0 0 0]
+2022-04-27 07:52:18,152 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2022-04-27 07:52:18,153 - matplotlib.animation - INFO - MovieWriter._run: running command: 'C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe' -size 1000x800 -depth 8 -delay 10.0 -loop 0 rgba:- 3x3_2.gif
+2022-04-27 07:52:26,062 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 07:52:40,641 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 13.0, best pos: [1 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 1 0 1 0 0 0 1 0 0 1 0 0 0 1 0 0 0 0 1 0
+ 0 1 0 0 0 0 0 1 0 0 0 1]
+2022-04-27 07:52:49,049 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2022-04-27 07:52:49,049 - matplotlib.animation - INFO - MovieWriter._run: running command: 'C:\Program Files\ImageMagick-7.1.0-Q16-HDRI\magick.exe' -size 1000x800 -depth 8 -delay 10.0 -loop 0 rgba:- 3x3_2.gif
+2022-04-27 07:52:58,021 - pyswarms.discrete.binary - INFO - Optimize for 4000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 07:53:55,870 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 9.0, best pos: [0 0 0 1 0 0 0 0 1 0 0 0 0 1 1 1 0 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 1 0
+ 0 0 0 0 1 0 0 1 0 0 0 0]
+2022-04-27 07:54:24,622 - pyswarms.discrete.binary - INFO - Optimize for 10000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 07:54:57,249 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 07:55:03,317 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 1.0, best pos: [0 1 0 0 1 0 0 0 0 0 0 0 1 0 1 0 0 0 1 0 0 0 0 0 0]
+2022-04-27 07:55:10,694 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 07:55:16,870 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 1.0, best pos: [0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1]
+2022-04-27 07:55:23,131 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 07:55:29,321 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 1.0, best pos: [0 1 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 1 0 1 0]
+2022-04-27 07:56:13,693 - pyswarms.discrete.binary - INFO - Optimize for 10000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 07:57:11,326 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 7.0, best pos: [1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 1 0 1 1 0 1 1 0 1 0 0 0 0 0 0 0 0
+ 0 1 0 1 0 0 1 0 0 0 0 0]
+2022-04-27 07:58:34,254 - pyswarms.discrete.binary - INFO - Optimize for 10000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 07:59:01,172 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 8.0, best pos: [1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 1 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+ 1 0 0 0 0 0 1 0 0 0 0 1]
+2022-04-27 07:59:18,434 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 07:59:18,996 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.0, best pos: [0 0 1 0 0 0 0 1 0]
+2022-04-27 08:00:01,349 - pyswarms.discrete.binary - INFO - Optimize for 10000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 08:02:46,837 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 49.0, best pos: [0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 1 1 0 1 1 0 1 1 1 1 1 0 0
+ 1 0 0 1 0 0 1 0 0 0 1 1]
+2022-04-27 08:03:10,862 - pyswarms.discrete.binary - INFO - Optimize for 10000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 08:05:43,402 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 49.0, best pos: [0 1 1 0 1 1 0 1 0 0 0 0 0 0 0 1 1 1 0 0 1 1 0 1 0 0 0 0 1 0 0 1 0 1 0 1 0
+ 1 0 0 1 0 1 1 0 0 1 0 0]
+2022-04-27 08:40:49,131 - pyswarms.discrete.binary - INFO - Optimize for 10000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 08:40:57,507 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 08:40:59,010 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 20.0, best pos: [1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 0 0 0 1 0 0 0 0 1 0 0 1 1 1
+ 1 0 1 0 1 0 0 1 0 0 0 0]
+2022-04-27 08:41:12,330 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 08:41:13,808 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 28.0, best pos: [1 0 0 0 1 0 0 0 1 0 1 1 1 0 1 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 1 0 0 0 1 0 0
+ 0 1 1 1 0 0 0 1 0 0 0 0]
+2022-04-27 08:43:09,656 - pyswarms.discrete.binary - INFO - Optimize for 10000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 08:43:22,145 - pyswarms.discrete.binary - INFO - Optimize for 10000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 08:45:55,384 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 5.0, best pos: [0 0 0 1 0 1 0 0 1 0 1 0 0 0 1 0 0 0 1 0 1 0 0 1 0 0 0 0 0 1 0 1 0 0 1 1 0
+ 0 0 0 1 0 0 0 1 0 0 0 0]
+2022-04-27 08:45:59,839 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 49.0, best pos: [1 0 0 0 0 1 0 1 1 1 0 1 0 1 1 0 1 0 1 1 0 0 1 0 1 1 0 0 1 1 1 0 0 1 1 0 1
+ 0 0 1 1 1 1 0 0 0 1 1 0]
+2022-04-27 08:47:56,632 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 08:48:02,421 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 2.0, best pos: [0 1 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 1 0 0 1]
+2022-04-27 08:48:44,019 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 08:48:52,292 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.0, best pos: [0 1 0 1 0 0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 1 0 0 1]
+2022-04-27 08:51:04,116 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 08:51:04,656 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.0, best pos: [1 0 1 0 0 0 0 0 1]
+2022-04-27 08:51:47,699 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 08:51:48,126 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.0, best pos: [1 0 1 0 0 0 0 0 1]

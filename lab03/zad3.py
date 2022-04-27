@@ -88,7 +88,7 @@ time_sum = 0
 for time in times:
     time_sum += time
 
-print("Average algorythm execution time after 10 runs: ", time_sum / 10)hg
+print("Average algorythm execution time after 10 runs: ", time_sum / 10)
 
 #podsumowanie: najlepsze znalezione rozwiazanie (chromosom+ocena)
 solution, solution_fitness, solution_idx = ga_instance.best_solution()

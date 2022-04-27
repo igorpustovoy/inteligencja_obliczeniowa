@@ -91,3 +91,15 @@ ValueError: shape mismatch: objects cannot be broadcast to a single shape.  Mism
 2022-04-13 14:51:58,915 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.0, best pos: [0 0 1 1 1 1 1 1 0 1 1 0 1 0 0]
 2022-04-13 14:54:02,239 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
 2022-04-13 14:54:02,269 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 2.0, best pos: [1 0 0 0 0 1 1 1 0 1 0 1 0 0 1]
+2022-04-26 12:22:07,795 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:22:07,827 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 2.0, best pos: [1 0 0 1 1 0 1 0 0 0 1 0 0 1 1]
+2022-04-26 12:22:29,241 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:22:29,282 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 2.0, best pos: [1 0 1 1 1 0 1 1 1 0 0 0 1 1 0]
+2022-04-26 12:22:40,060 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:22:40,092 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 2.0, best pos: [0 1 0 0 1 0 0 1 0 0 0 1 1 0 1]
+2022-04-26 12:22:47,874 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:22:47,906 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.0, best pos: [1 0 0 1 1 0 1 0 0 0 1 0 0 1 1]
+2022-04-26 12:22:56,060 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:22:56,100 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 2.0, best pos: [0 1 0 1 0 0 1 0 1 1 0 0 1 1 0]
+2022-04-26 12:23:05,106 - pyswarms.discrete.binary - INFO - Optimize for 30 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 12:23:05,138 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.0, best pos: [1 0 1 0 1 1 0 0 1 1 0 0 1 0 1]
