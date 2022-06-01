@@ -3,6 +3,11 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.stem.wordnet import WordNetLemmatizer
 from nltk.probability import FreqDist
+import numpy as np
+import pandas as pd
+from os import path
+from PIL import Image
+from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 
 nltk.download([
     "names",
@@ -67,3 +72,12 @@ print(lematized_tokens)
 fdist = FreqDist(lematized_tokens)
 fdist.plot(10, cumulative=False)
 plt.show()
+
+# g)
+wordcloud = WordCloud(max_font_size=50, max_words=100, background_color="white", scale=3).generate(article)
+plt.figure()
+plt.imshow(wordcloud, interpolation="bilinear")
+plt.axis("off")
+plt.show()
+
+wordcloud.to_file("cloud.png")
