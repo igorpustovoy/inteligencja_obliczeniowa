@@ -3,11 +3,7 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.stem.wordnet import WordNetLemmatizer
 from nltk.probability import FreqDist
-import numpy as np
-import pandas as pd
-from os import path
-from PIL import Image
-from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
+from wordcloud import WordCloud
 
 nltk.download([
     "names",
